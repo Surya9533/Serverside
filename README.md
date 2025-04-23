@@ -34,6 +34,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 math.html
 
+'''
 <html>
 <head>
     <title>Power Calculator</title>
@@ -102,6 +103,7 @@ math.html
     </form>
 </body>
 </html>
+'''
 
 views.py
 
